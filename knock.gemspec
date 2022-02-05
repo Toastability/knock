@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 5"
   s.add_dependency "jwt", "~> 2.2.1"
-  s.add_dependency "bcrypt", "~> 3.1"
+  s.add_dependency "bcrypt", "~> 3.1.16"
 
   s.add_development_dependency "sqlite3", "~> 1.3"
   s.add_development_dependency "timecop", "~> 0.8.0"
